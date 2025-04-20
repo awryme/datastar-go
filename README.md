@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/awryme/datastar-go.svg)](https://pkg.go.dev/github.com/awryme/datastar-go)
+
 # datastar-go
 Datastar sdk implementation in Go.
 
